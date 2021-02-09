@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    font-family: Georgia, monospace;
+}
+
+.container {
+    display: grid;
+    margin: 0 auto;
+    height: 75vh;
+    width: 70vw;
+    border: 1px solid black;
+}
+
+.square {
+    border: 1px solid black;
+}
