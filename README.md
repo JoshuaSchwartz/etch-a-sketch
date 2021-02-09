@@ -1,1 +1,1 @@
-# etch-a-sketch
+This project is to create a program that emulates an Etch-A-Sketch. 
